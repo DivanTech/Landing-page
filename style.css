@@ -1,3 +1,13 @@
 *{
     font-family: Avangarde, "TeX Gyre", Adventor, "URW Gothic L", sans-serif;
 }
+
+.logo{
+    background-color: burlywood;
+    padding: 32px;
+    margin-bottom: 80px;
+    font-size: 24px;
+    color: antiquewhite;
+    display: flex;
+    align-items: center;
+}
